@@ -1,5 +1,4 @@
-### Hi there 👋<p align="left"> <img src="https://komarev.com/ghpvc/?username=MorsalinIslamShapon&label=Profile%20views&color=0e75b6&style=flat" alt="MorsalinIslamShapon" /> </p>
-<!--[![](https://visitcount.itsvg.in/api?id=MorsalinIslamShapon&icon=0&color=12)](https://visitcount.itsvg.in)-->
+### Hi there 👋[![](https://visitcount.itsvg.in/api?id=MorsalinIslamShapon&icon=0&color=12)](https://visitcount.itsvg.in)
 # I'm Morsalin Islam Shapon
 MERN Stack Developer | Currently Learning | GitHub Enthusiast
 
