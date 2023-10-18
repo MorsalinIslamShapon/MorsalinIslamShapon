@@ -1,4 +1,4 @@
-### Hi there 👋[![](https://visitcount.itsvg.in/api?id=MorsalinIslamShapon&icon=0&color=12)](https://visitcount.itsvg.in)
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=MorsalinIslamShapon&label=Profile%20views&color=0e75b6&style=flat" alt="MorsalinIslamShapon"/> 
 
 - 🔭 I’m currently working **as a MERN stack developer**
 - 🌱 I’m currently learning **and building cool projects with MongoDB, Express.js, React, and Node.js.**
