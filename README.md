@@ -1,14 +1,19 @@
-### Hi there 👋
+### Hi there 👋[![](https://visitcount.itsvg.in/api?id=MorsalinIslamShapon&icon=0&color=12)](https://visitcount.itsvg.in)
+# I'm Morsalin Islam Shapon
+MERN Stack Developer | Currently Learning | GitHub Enthusiast
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working **as a MERN stack developer**
-- 🌱 I’m currently learning **Vue.js,React.js, Next.js ,Typescript**
+- 🌱 I’m currently learning **and building cool projects with MongoDB, Express.js, React, and Node.js.**
 - 👯 I’m looking to collaborate on **Task Management Application**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **morsalinislamshapon@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I run a YouTube Chanel**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: *I run a YouTube Chanel*
+
+- ## About Me
+I am a passionate MERN stack developer with a background in Diploma In Engineering Dept.of Coumputer Science & Technology. I have a strong desire to learn and grow in the web development space.
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/mrslslm) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/morsa.lin.75054/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/morsalinislamshapon/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/morsalinislamshapon/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22736799/morsallinislamshapon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/morsalinislam27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@LearnwithMorsalin271?si=r_F7SmsH_9Iz3wSq) 
@@ -30,4 +35,4 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MorsalinIslamShapon&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=MorsalinIslamShapon&icon=0&color=12)](https://visitcount.itsvg.in)
+
