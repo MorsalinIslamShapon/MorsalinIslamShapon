@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=MorsalinIslamShapon&label=Profile%20views&color=0e75b6&style=flat" alt="MorsalinIslamShapon"/> 
+### Hi there 👋<p align="left"> <img src="https://komarev.com/ghpvc/?username=MorsalinIslamShapon&label=Profile%20views&color=0e75b6&style=flat" alt="MorsalinIslamShapon" /> </p>
 
 - 🔭 I’m currently working **as a MERN stack developer**
 - 🌱 I’m currently learning **and building cool projects with MongoDB, Express.js, React, and Node.js.**
